@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OurApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="lblWelcome">Some welcome message</string>
+    <string name="lblMain">So, when do you want a cab?</string>
+    <string name="btnNow">Now</string>
+    <string name="btnLater">Later</string>
+
+</resources>
